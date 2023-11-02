@@ -1,0 +1,11 @@
+{
+  "name": "new_paste",
+  "version": "1.0.0",
+  "main": "./dist/main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "tsc-watch": "^6.0.4",
+    "typescript": "^5.2.2"
+  }
+}
